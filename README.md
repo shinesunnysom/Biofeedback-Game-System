@@ -25,7 +25,7 @@ Speaker or anything with Earphones jack
 Monitor that supports VGA
 
 ###### Author's note: ######
-Bio-Feedback Game System written in completely Verilog. The game is designed for Nexys 4 DDR FPGA board,
+Bio-Feedback Game System is written in completely Verilog. The game is designed for Nexys 4 DDR FPGA board,
 VGA display, and USB Keyboard. However the following youtube demo is not the final build but represents
 fully of what our senior project design is based. The game was based on a "Space Invader/Galaga" gameplay.
 
