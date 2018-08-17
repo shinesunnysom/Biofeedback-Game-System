@@ -1,17 +1,15 @@
 # Biofeedback-Game-System
 
 California State University Long Beach
-##############################################
 Computer Engineering Course
 CECS 490A Fall 2017, CECS 490B Spring 2018;
 Senior Project Design
-##############################################
-##############################################
+
 Team Members: 
 - Sambo Sor Jr.
 - Gregory 'Levi' Gutierrez
 - Shinesunny Som
-##############################################
+
 
 Software Requirements:
 Xilinx 14.7 ISE
