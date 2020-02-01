@@ -40,7 +40,7 @@ DEMO 1: No game but, heartbeat display on FPGA board.
 
 DEMO 2: Cube moving on screen.
 
-DEMO 3: https://www.youtube.com/watch?v=-m32V9zb9Nc (bonus boss footage)
+DEMO 3: https://www.youtube.com/watch?v=-m32V9zb9Nc (bonus boss footage) 
 
 DEMO 4: Sound implementation, Game v2.0
 
@@ -49,4 +49,4 @@ DEMO 5: Final Build (Fully working with Heartbeat monitor)
 Provided are ONLY bit files and the following Xilinx Project source code is withheld to avoid theft/plagiarism of code.
 Public license, this is used for educational purposes. Please remember to give where credit is due.
 
-If you are interested of how the code is implement, send a message.
+If you are interested of how the code is implemented, send a message.
