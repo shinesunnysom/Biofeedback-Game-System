@@ -48,3 +48,5 @@ DEMO 5: Final Build (Fully working with Heartbeat monitor)
 
 Provided are ONLY bit files and the following Xilinx Project source code is withheld to avoid theft/plagiarism of code.
 Public license, this is used for educational purposes. Please remember to give where credit is due.
+
+If you are interested of how the code is implement, send a message.
