@@ -13,16 +13,16 @@ Team Members:
 
 
 Software Requirements:
-Xilinx 14.7 ISE
-Digilent Adept 2
+- Xilinx 14.7 ISE
+- Digilent Adept 2
 
 Hardware Requirements:
-Nexys 4 DDR FPGA board
-VGA Cable
-USB Keyboard
-Heartbeat monitoring accessory
-Speaker or anything with Earphones jack
-Monitor that supports VGA
+- Nexys 4 DDR FPGA board
+- VGA Cable
+- USB Keyboard
+- Heartbeat monitoring accessory
+- Speaker or anything with Earphones jack
+- Monitor that supports VGA
 
 ###### Author's note: ######
 Bio-Feedback Game System is written in completely Verilog. The game is designed for Nexys 4 DDR FPGA board,
